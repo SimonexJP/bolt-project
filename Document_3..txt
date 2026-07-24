@@ -1,54 +1,0 @@
-Document 3 - Magic Content Specification
-Extend the existing plugin. Do not replace existing systems. Every faction must feel unique with at least 20 configurable spells, progression, particles, sounds and ultimate abilities.
-Fire Faction
-Requirements:
-- Unique particles
-- Unique sounds
-- Unique spell combos
-- Passive abilities
-- Ultimate ability
-- Spell evolution I-IV
-- Configurable mana, cooldown and damage.
-
-SpellTypeManaCooldownNotesFireballActiveConfigurableConfigurableParticles, sounds, combo, evolutionFlame WaveActiveConfigurableConfigurableParticles, sounds, combo, evolutionInfernoActiveConfigurableConfigurableParticles, sounds, combo, evolutionMeteor ShowerActiveConfigurableConfigurableParticles, sounds, combo, evolutionPhoenixActiveConfigurableConfigurableParticles, sounds, combo, evolutionLava PrisonActiveConfigurableConfigurableParticles, sounds, combo, evolutionFire DashActiveConfigurableConfigurableParticles, sounds, combo, evolutionHell ExplosionActiveConfigurableConfigurableParticles, sounds, combo, evolutionFire TornadoActiveConfigurableConfigurableParticles, sounds, combo, evolutionBurning ChainsActiveConfigurableConfigurableParticles, sounds, combo, evolutionFlame WallActiveConfigurableConfigurableParticles, sounds, combo, evolutionLava RainActiveConfigurableConfigurableParticles, sounds, combo, evolutionMagma BurstActiveConfigurableConfigurableParticles, sounds, combo, evolutionFire SpearActiveConfigurableConfigurableParticles, sounds, combo, evolutionDragon BreathActiveConfigurableConfigurableParticles, sounds, combo, evolutionSolar BlastActiveConfigurableConfigurableParticles, sounds, combo, evolutionCrimson ExplosionActiveConfigurableConfigurableParticles, sounds, combo, evolutionFlame PrisonActiveConfigurableConfigurableParticles, sounds, combo, evolutionMolten ArmorActiveConfigurableConfigurableParticles, sounds, combo, evolutionUltimate: ApocalypseActiveConfigurableConfigurableParticles, sounds, combo, evolutionIce Faction
-Requirements:
-- Unique particles
-- Unique sounds
-- Unique spell combos
-- Passive abilities
-- Ultimate ability
-- Spell evolution I-IV
-- Configurable mana, cooldown and damage.
-
-SpellTypeManaCooldownNotesIce ShardActiveConfigurableConfigurableParticles, sounds, combo, evolutionFreezeActiveConfigurableConfigurableParticles, sounds, combo, evolutionFrost NovaActiveConfigurableConfigurableParticles, sounds, combo, evolutionBlizzardActiveConfigurableConfigurableParticles, sounds, combo, evolutionIce PrisonActiveConfigurableConfigurableParticles, sounds, combo, evolutionFrozen SpearActiveConfigurableConfigurableParticles, sounds, combo, evolutionGlacier WallActiveConfigurableConfigurableParticles, sounds, combo, evolutionSnow StormActiveConfigurableConfigurableParticles, sounds, combo, evolutionPermafrostActiveConfigurableConfigurableParticles, sounds, combo, evolutionIce DashActiveConfigurableConfigurableParticles, sounds, combo, evolutionFrozen ArmorActiveConfigurableConfigurableParticles, sounds, combo, evolutionCrystal RainActiveConfigurableConfigurableParticles, sounds, combo, evolutionAbsolute ZeroActiveConfigurableConfigurableParticles, sounds, combo, evolutionIce SpikeActiveConfigurableConfigurableParticles, sounds, combo, evolutionFrozen WaveActiveConfigurableConfigurableParticles, sounds, combo, evolutionMirror IceActiveConfigurableConfigurableParticles, sounds, combo, evolutionArctic WindActiveConfigurableConfigurableParticles, sounds, combo, evolutionCold TouchActiveConfigurableConfigurableParticles, sounds, combo, evolutionFrozen OrbActiveConfigurableConfigurableParticles, sounds, combo, evolutionUltimate: Eternal WinterActiveConfigurableConfigurableParticles, sounds, combo, evolutionLightning Faction
-Requirements:
-- Unique particles
-- Unique sounds
-- Unique spell combos
-- Passive abilities
-- Ultimate ability
-- Spell evolution I-IV
-- Configurable mana, cooldown and damage.
-
-SpellTypeManaCooldownNotesSparkActiveConfigurableConfigurableParticles, sounds, combo, evolutionLightning BoltActiveConfigurableConfigurableParticles, sounds, combo, evolutionChain LightningActiveConfigurableConfigurableParticles, sounds, combo, evolutionThunderstormActiveConfigurableConfigurableParticles, sounds, combo, evolutionFlash StepActiveConfigurableConfigurableParticles, sounds, combo, evolutionStatic FieldActiveConfigurableConfigurableParticles, sounds, combo, evolutionStorm CageActiveConfigurableConfigurableParticles, sounds, combo, evolutionElectric SpearActiveConfigurableConfigurableParticles, sounds, combo, evolutionOverloadActiveConfigurableConfigurableParticles, sounds, combo, evolutionLightning DashActiveConfigurableConfigurableParticles, sounds, combo, evolutionEMPActiveConfigurableConfigurableParticles, sounds, combo, evolutionVoltage BurstActiveConfigurableConfigurableParticles, sounds, combo, evolutionThunder HammerActiveConfigurableConfigurableParticles, sounds, combo, evolutionSky StrikeActiveConfigurableConfigurableParticles, sounds, combo, evolutionMagnetic PullActiveConfigurableConfigurableParticles, sounds, combo, evolutionStorm ShieldActiveConfigurableConfigurableParticles, sounds, combo, evolutionArc BeamActiveConfigurableConfigurableParticles, sounds, combo, evolutionIon BlastActiveConfigurableConfigurableParticles, sounds, combo, evolutionTempestActiveConfigurableConfigurableParticles, sounds, combo, evolutionUltimate: Wrath of ZeusActiveConfigurableConfigurableParticles, sounds, combo, evolutionEarth Faction
-Requirements:
-- Unique particles
-- Unique sounds
-- Unique spell combos
-- Passive abilities
-- Ultimate ability
-- Spell evolution I-IV
-- Configurable mana, cooldown and damage.
-
-SpellTypeManaCooldownNotesStone ThrowActiveConfigurableConfigurableParticles, sounds, combo, evolutionRock WallActiveConfigurableConfigurableParticles, sounds, combo, evolutionEarthquakeActiveConfigurableConfigurableParticles, sounds, combo, evolutionNature ShieldActiveConfigurableConfigurableParticles, sounds, combo, evolutionBoulderActiveConfigurableConfigurableParticles, sounds, combo, evolutionRoot PrisonActiveConfigurableConfigurableParticles, sounds, combo, evolutionStone SpearActiveConfigurableConfigurableParticles, sounds, combo, evolutionSandstormActiveConfigurableConfigurableParticles, sounds, combo, evolutionCrystal ArmorActiveConfigurableConfigurableParticles, sounds, combo, evolutionMountain SlamActiveConfigurableConfigurableParticles, sounds, combo, evolutionMud TrapActiveConfigurableConfigurableParticles, sounds, combo, evolutionNature GrowthActiveConfigurableConfigurableParticles, sounds, combo, evolutionEarth DashActiveConfigurableConfigurableParticles, sounds, combo, evolutionSpike FieldActiveConfigurableConfigurableParticles, sounds, combo, evolutionGaia BlessingActiveConfigurableConfigurableParticles, sounds, combo, evolutionLiving RockActiveConfigurableConfigurableParticles, sounds, combo, evolutionStone RainActiveConfigurableConfigurableParticles, sounds, combo, evolutionSeismic WaveActiveConfigurableConfigurableParticles, sounds, combo, evolutionTitan SkinActiveConfigurableConfigurableParticles, sounds, combo, evolutionUltimate: World BreakerActiveConfigurableConfigurableParticles, sounds, combo, evolutionElven Faction
-Requirements:
-- Unique particles
-- Unique sounds
-- Unique spell combos
-- Passive abilities
-- Ultimate ability
-- Spell evolution I-IV
-- Configurable mana, cooldown and damage.
-
-SpellTypeManaCooldownNotesNature ArrowActiveConfigurableConfigurableParticles, sounds, combo, evolutionHealing BloomActiveConfigurableConfigurableParticles, sounds, combo, evolutionForest BlessingActiveConfigurableConfigurableParticles, sounds, combo, evolutionVine TrapActiveConfigurableConfigurableParticles, sounds, combo, evolutionSpirit ShotActiveConfigurableConfigurableParticles, sounds, combo, evolutionWind StepActiveConfigurableConfigurableParticles, sounds, combo, evolutionLife AuraActiveConfigurableConfigurableParticles, sounds, combo, evolutionMoonlightActiveConfigurableConfigurableParticles, sounds, combo, evolutionThorn PrisonActiveConfigurableConfigurableParticles, sounds, combo, evolutionSacred TreeActiveConfigurableConfigurableParticles, sounds, combo, evolutionNature PulseActiveConfigurableConfigurableParticles, sounds, combo, evolutionWild GrowthActiveConfigurableConfigurableParticles, sounds, combo, evolutionSpirit WolfActiveConfigurableConfigurableParticles, sounds, combo, evolutionElven GraceActiveConfigurableConfigurableParticles, sounds, combo, evolutionEmerald ShieldActiveConfigurableConfigurableParticles, sounds, combo, evolutionLeaf StormActiveConfigurableConfigurableParticles, sounds, combo, evolutionAncient WisdomActiveConfigurableConfigurableParticles, sounds, combo, evolutionCelestial ArrowActiveConfigurableConfigurableParticles, sounds, combo, evolutionForest GuardianActiveConfigurableConfigurableParticles, sounds, combo, evolutionUltimate: World TreeActiveConfigurableConfigurableParticles, sounds, combo, evolutionFaction Systems
-Include faction HQ, private chat, faction wars, territory bonuses, leaders, officers, monthly events, GUI management and SQLite persistence.
