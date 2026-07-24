@@ -1,0 +1,18 @@
+Document 4 - Events & Administration Specification
+Extend the existing plugin only. Preserve compatibility with all existing systems.
+Monthly Grand Magic Tournament
+Create a configurable monthly event. Administrators can also start it manually. Broadcast announcements, countdown, protected arena, spectators, rewards, statistics and leaderboard integration.
+Magic Duel System
+Command: /duello <player>. Invitation, accept/deny, temporary arena, cinematic countdown, magic-only combat, inventory protected, winner gains XP, ranking points, rewards; loser returns safely.
+Capital Punishment
+Keep /penacapitale <player> <reason>. First execution: run /magicadmin resetplayer <player>. Second execution: run /ban <player>. Persist punishment count in SQLite. Lock movement, camera, commands, inventory, spells and interactions during the cinematic.
+Administration
+Permissions for every command. magic.admin.allspells bypasses all spell unlock requirements. Commands: unlockall, lockall, givespell, removespell, givetalents, resettalents, prestige, resetplayer, addxp, setlevel, givewand, reload.
+Security & Performance
+Async database operations, cache player data, no deprecated API, proper scheduler usage, thread-safe Bukkit interactions, modular architecture, logging and exception handling.
+Configuration
+Everything configurable: arenas, duel rewards, capital punishment, sounds, particles, boss bars, scoreboards, GUI, cooldowns, mana, XP, factions, NPCs, messages, permissions.
+Compatibility
+PaperMC 1.21.1, Java 21, Adventure API, MiniMessage, PlaceholderAPI, TAB, LuckPerms, DecentHolograms, Citizens, ItemsAdder, Oraxen.
+Final Checklist
+Verify compilation without warnings. Verify all commands, GUIs, spell engine, factions, duels, capital punishment, scoreboards, leaderboards, NPCs and integrations work correctly.
